@@ -16,5 +16,10 @@ namespace WindowsFormsApp
         {
             InitializeComponent();
         }
+
+        private void buttonGenerate_Click(object sender, EventArgs e)
+        {
+            textBoxEmoji.Text = "✌";
+        }
     }
 }
