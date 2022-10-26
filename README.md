@@ -9,3 +9,12 @@ Console.WriteLine("Hello, World! ✌");
 ```
 
 > Note: You may have to ensure you are using a font that supports emojis
+
+## Creating a new project from the command line
+```
+$projectName = "Reverse"
+mkdir $projectName
+cd $projectName
+dotnet new console --framework net6.0
+cd ..
+```
