@@ -1,5 +1,7 @@
 ﻿/*
 
+  Usage of Machine.Specifications (Because, It, etc)
+
 dotnet add package Machine.Specifications
 dotnet add package Microsoft.NET.Test.SDK
 dotnet add package Machine.Specifications.Runner.VisualStudio

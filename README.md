@@ -12,7 +12,7 @@ Console.WriteLine("Hello, World! ✌");
 
 ## Creating a new project from the command line
 ```
-$projectName = "Reverse"
+$projectName = "DeleteFiles"
 mkdir $projectName
 cd $projectName
 dotnet new console --framework net6.0
